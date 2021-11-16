@@ -18,4 +18,3 @@ classes
 *.log
 out/
 .project
-.gradle
